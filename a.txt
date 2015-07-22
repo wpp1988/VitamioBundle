@@ -1,0 +1,25 @@
+ 驱动器 G 中的卷是 资料
+ 卷的序列号是 609E-1FAC
+
+ G:\App\VitamioBundle 的目录
+
+2015/07/22  09:26    <DIR>          .
+2015/07/22  09:26    <DIR>          ..
+2015/07/21  14:19                87 .gitignore
+2015/07/21  14:19    <DIR>          .idea
+2015/07/22  09:26                 0 a.txt
+2015/07/21  14:19               455 build.gradle
+2015/07/21  14:19    <DIR>          gradle
+2015/07/21  14:19               872 gradle.properties
+2015/07/21  14:19             5,244 gradlew
+2015/07/21  14:19             2,404 gradlew.bat
+2015/07/21  14:19               109 settings.gradle
+2015/07/21  14:19    <DIR>          vitamio
+2015/07/21  14:19    <DIR>          vitamio-dynamic-layout
+2015/07/21  14:19    <DIR>          vitamio-iptv-byr
+2015/07/21  14:19    <DIR>          vitamio-sample
+2015/07/21  14:19    <DIR>          vitamio-youku
+2015/07/21  14:19               937 VitamioBundle.iml
+2015/07/21  18:39    <DIR>          vt
+               8 个文件         10,108 字节
+              10 个目录 16,755,310,592 可用字节
